@@ -1,0 +1,6 @@
+/**
+ * All of the CSS for the dashboard-specific functionality
+ */
+#pages_list, #posts_list, #all_list, #categories_list {
+	height:200px;
+}
